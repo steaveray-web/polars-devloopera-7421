@@ -47,3 +47,4 @@ It is rapidly becoming a preferred choice for high-performance data engineering.
 [High Performance DataFrames - Lykhari](https://techdiary.lykhari.com/undefined-4871)  
 [High Performance DataFrames - USite](https://techdiary.usite.pro/publ/tips_recommendations/high_performance_dataframes_with_polars_lazy_execution_arrow_integration_and_real_world_use_cases/2-1-0-6)  
 [High Performance DataFrames - Micro Blog](https://databreach.micro.blog/highperformance-dataframes-with-polars-lazy/)
+https://codepen.io/Steave-Ray/pen/jEMjJMW
