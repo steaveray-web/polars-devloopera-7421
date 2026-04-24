@@ -32,8 +32,7 @@ It is rapidly becoming a preferred choice for high-performance data engineering.
 [High Performance DataFrames with Polars - Medium](https://medium.com/@steave.ray/high-performance-dataframes-with-polars-lazy-execution-arrow-integration-and-real-world-use-4fef28a14d9c)  
 [High Performance DataFrames - Mataroa Blog](https://steaveray.mataroa.blog/blog/high-performance-dataframes-with-polars-lazy-execution-arrow-integration-and-real-world-use-cases/)  
 [High Performance DataFrames - Inblog.io](https://techdust.inblog.io/highperformance-dataframes-with-polars-lazy-execution-arrow-integration-and-realworld-use-cases-166614)  
-
-### Manuals and Presentations
+ 
 [High Performance DataFrames - SlideShare](https://www.slideshare.net/slideshow/high-performance-dataframes-with-polars-is-a-next-generation-dataframe/287177822)  
 [High Performance DataFrames - Issue](https://issuu.com/techdust/docs/high-performance_dataframes_with_polars_lazy_exec)  
 [High Performance DataFrames - LinkedIn](https://www.linkedin.com/pulse/high-performance-dataframes-polars-lazy-execution-arrow-steave-ray-lr17f/?published=t)  
